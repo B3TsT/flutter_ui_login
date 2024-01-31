@@ -1,0 +1,6 @@
+{
+    "IDX.aI.enableInlineCompletion": true,
+    "conventionalCommits.scopes": [
+        "ui"
+    ]
+}
